@@ -1,0 +1,15 @@
+1-Os desenvolvedores querem colocar suas aplicações no ar o mais rápido possível, no entanto os sysadmins querem ter certeza que a aplicação está estável o suficiente para entrar em produção sem gerar incidentes.
+-Não falam a mesma lingua
+-Falta de comunicação
+
+2-Depende de como a organização está organizada geralmente a comunicação entre essas areas falta um pouco de agilidade para essas areas conversarem com foco no negócio
+
+3-Geralmente não conhece  e não sabe as necessidades do cliente, o negocio tem as necessidades e a infra não conhece o negocio da empresa.
+
+4-Não são parceiros, cada um vê o seu mundo e defende a sua área de atuação com base nas suas necessidades.
+
+5-Agilidade, controle das alterações, velocidade.
+
+6-Estabilidade, alterações somente quando necessário, facilidade de análise. 
+
+
